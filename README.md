@@ -25,7 +25,7 @@ This is  where I will backup my projects and break some stuff down :bowtie:
 
 
 
-<h3>align="left">Languages and Tools:</h3>
+<h3><align="left">Languages and Tools></h3>
 
 <a href="https://aws.amazon.com/" target="_blank" rel="aws"> <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="python"> <img src="https://www.pngmart.com/files/7/Python-Transparent-Background.png" alt="bash" width="40" height="40"/> </a> 
