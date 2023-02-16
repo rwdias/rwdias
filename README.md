@@ -8,7 +8,7 @@ This is where I will backup my portifolio and personal projects
 - 👨🏻‍🎓&nbsp;TS Big Data Analitycs
 - 👨🏻‍💻&nbsp;Software Developer & Data Enthusiastic 
 - 🚆&nbsp;Scaled Agile Coach
-- PT|EN|FR|ES Contact me in those languages 
+- PT|EN|FR|ES Contact me in one of those languages 
 
 
 
