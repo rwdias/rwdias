@@ -2,11 +2,11 @@ Hey! 👋🏽
 
 This is where I will backup my portfolio and personal projects.
 
-👨🏻‍🎓  BS Economics and Statistics (ongoing) (UFPR - Universidade Federal do Paraná)
-👨🏻‍🎓  TS Big Data Analytics
-👨🏻‍💻  Software Developer & Data Enthusiast
-🚆  Scaled Agile Coach
-PT | EN | FR | ES  Contact me in one of those languages
+-👨🏻‍🎓  BS Economics and Statistics (ongoing) (UFPR - Universidade Federal do Paraná)
+-👨🏻‍🎓  TS Big Data Analytics
+-👨🏻‍💻  Software Developer & Data Enthusiast
+-🚆  Scaled Agile Coach
+-PT | EN | FR | ES  Contact me in one of those languages
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/rafaeldiascwb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
