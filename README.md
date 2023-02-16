@@ -4,7 +4,7 @@
 
 This is where I will backup my portifolio and personal projects 
 
-- 👨🏻‍🎓&nbsp;BS Economics and Estatistics (on the run) (UFPR - Universidade Federal do Paraná) 
+- 👨🏻‍🎓&nbsp;BS Economics and Statistics (ongoing) (UFPR - Universidade Federal do Paraná) 
 - 👨🏻‍🎓&nbsp;TS Big Data Analitycs
 - 👨🏻‍💻&nbsp;Software Developer & Data Enthusiastic 
 - 🚆&nbsp;Scaled Agile Coach
