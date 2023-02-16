@@ -42,6 +42,7 @@ This is where I will backup my portfolio and personal projects.
 <br>
 <br>
 
+<details><summary><h3>C Language Projects</h3></summary>
 <details><summary><h3>🚀 42 School Projects</h3></summary>
 
 | Phase | Project | Language | Grade | Start | End | Description |
@@ -49,3 +50,6 @@ This is where I will backup my portfolio and personal projects.
 | 1 | [libft](https://github.com/rwdias/libft) | C | 125% | 04/04/2022 | 02/05/2022 | Create a library of basci functions. | [![Libft]|
 | 1 | [get_next_line](https://github.com/rwdias/get_next_line) | C | 100% | 02/05/2022 | 16/05/2022 | Read a single line from a fd. | [![GNL]|
 | 1 | [ft_printf](https://github.com/rwdias/ft_printf) | C | 100% | 16/05/2022 | 30/05/2022 | Recreates the printf function. | [![ft_printf]|
+
+</details>
+  </details>
