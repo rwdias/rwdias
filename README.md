@@ -2,7 +2,7 @@
 
 
 
-This is  where I will backup my projects and break some stuff down :bowtie:
+This is where I will backup my portifolio and personal projects 
 
 - 👨🏻‍🎓&nbsp;BS Economics and Estatistics (on the run) (UFPR - Universidade Federal do Paraná) 
 - 👨🏻‍🎓&nbsp;TS Big Data Analitycs
