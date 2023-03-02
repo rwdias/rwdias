@@ -6,7 +6,7 @@ This is where I will backup my portfolio and personal projects.
 - 👨🏻‍🎓&nbsp;TS Big Data Analitycs
 - 👨🏻‍💻&nbsp;Software Developer & Data Enthusiastic 
 - 🚆&nbsp;Scaled Agile Coach
-- 🌱&nbsp;Leaning: Web Development, Javascript
+- 🌱&nbsp;Leaning: Web Development, Javascript, Rust
 - PT|EN|FR|ES Contact me in one of those languages 
 
 <p>
