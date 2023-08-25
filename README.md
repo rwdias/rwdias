@@ -6,7 +6,7 @@ This is where I will backup my portfolio and personal projects.
 - 👨🏻‍🎓&nbsp;TS Big Data Analitycs
 - 👨🏻‍💻&nbsp;Software Developer & Data Enthusiastic 
 - 🚆&nbsp;Scaled Agile Coach
-- 🌱&nbsp;Leaning: Web Development, Javascript, Rust
+- 🌱&nbsp;Leaning: Swift, Rust
 - PT|EN|FR|ES Contact me in one of those languages 
 
 <p>
@@ -43,13 +43,29 @@ This is where I will backup my portfolio and personal projects.
 <br>
 
 <details><summary><h3>C Language Projects</h3></summary>
-<details><summary><h3>🚀 42 School Projects</h3></summary>
+&nbsp;&nbsp;<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<summary><h3>🚀 42 School Projects</h3></summary>
+
 
 | Phase | Project | Language | Grade | Start | End | Description |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | 1 | [libft](https://github.com/rwdias/libft) | C | 125% | 04/04/2022 | 02/05/2022 | Create a library of basci functions. | [![Libft]|
-| 1 | [get_next_line](https://github.com/rwdias/get_next_line) | C | 100% | 02/05/2022 | 16/05/2022 | Read a single line from a fd. | [![GNL]|
-| 1 | [ft_printf](https://github.com/rwdias/ft_printf) | C | 100% | 16/05/2022 | 30/05/2022 | Recreates the printf function. | [![ft_printf]|
+| 2 | [get_next_line](https://github.com/rwdias/get_next_line) | C | 100% | 02/05/2022 | 16/05/2022 | Read a single line from a fd. | [![GNL]|
+| 3 | [ft_printf](https://github.com/rwdias/ft_printf) | C | 100% | 16/05/2022 | 30/05/2022 | Recreates the printf function. | [![ft_printf]|
+
+&nbsp;&nbsp;</details>
+  </details>
+<details><summary><h3>AI Projects</h3></summary>
+  
+| Project                                 | Language | Description                            |
+| --------------------------------------- | -------- | -------------------------------------- |
+| [berkley CS188](https://github.com/rwdias/berkleyCS188_Spring2023)| Python        | Pacman game using AI|
 
 </details>
-  </details>
+<details><summary><h3>Machine Learning Projects</h3></summary>
+  
+| Project                                 | Language | Description                            |
+| --------------------------------------- | -------- | -------------------------------------- |
+| [Brazil Exports](https://github.com/rwdias/ce329ML_Project)| Python        | Brazil Exports|
+
+</details>
