@@ -3,7 +3,7 @@ Hey! 👋🏽
 This is where I will backup my portfolio and personal projects.
 
 - 👨🏻‍🎓&nbsp;BS Economics and Statistics (ongoing) (UFPR - Universidade Federal do Paraná) 
-- 👨🏻‍🎓&nbsp;TS Big Data Analitycs
+- 👨🏻‍🎓&nbsp;TS Big Data Analytics
 - 👨🏻‍💻&nbsp;Software Developer & Data Enthusiastic 
 - 🚆&nbsp;Scaled Agile Coach
 - 🌱&nbsp;Leaning: Swift, Rust
